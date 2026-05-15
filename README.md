@@ -150,13 +150,21 @@ This project improved understanding of:
 
 (Add screenshots inside screenshots folder)
 
-Examples:
+Examples:-
 
-* EC2 instances
-* Load Balancer
-* Auto Scaling Group
-* CloudWatch metrics
-* Launch Template
+# 🖼️ Project Screenshots
+
+## Load Balancer Overview
+![Load Balancer](screenshots/load-balancer-overview.jpeg)
+
+## Auto Scaling Healthy Instances
+![Healthy Instances](screenshots/asg-three-healthy-instances.jpeg)
+
+## Stress Testing
+![Stress Test](screenshots/cloudwatch-stress-test.jpeg)
+
+## Unhealthy Instance Detection
+![Unhealthy](screenshots/asg-unhealthy-targets.jpeg)
 
 ---
 
