@@ -1,0 +1,9 @@
+User
+   ↓
+Application Load Balancer
+   ↓
+Auto Scaling Group
+   ↓
+EC2 Instances
+   ↓
+CloudWatch Monitoring
