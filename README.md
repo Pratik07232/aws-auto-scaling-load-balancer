@@ -166,6 +166,12 @@ Examples:-
 ## Unhealthy Instance Detection
 ![Unhealthy](screenshots/asg-unhealthy-targets.jpeg)
 
+## Again healthy instance
+![reagain Healthy].(screenshot/asg-again-healthy-instances.jpeg).
+
+## Asg three healthy instance
+![three Healthy].(screenshot/asg-three-healthy-instances.jpeg).
+
 ---
 
 # 🚀 Future Improvements
