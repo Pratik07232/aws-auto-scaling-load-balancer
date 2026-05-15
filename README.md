@@ -28,7 +28,7 @@ The infrastructure automatically adjusts EC2 instances based on traffic demand t
 Example:
 
 ```md
-![Architecture](screenshots/architecture.png)
+AWS Auto Scaling Architecture Diagram.png
 ```
 
 ---
